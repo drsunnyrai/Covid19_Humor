@@ -1,6 +1,6 @@
-# I’m out of breath from laughing! I think?
+A dataset of COVID-19 Humor and its toxic variants
 
-## A dataset of COVID-19 Humor and its toxic variants
+Published Paper - Bogireddy, N. R., Suresh, S., & Rai, S. (2023, April). I’m out of breath from laughing! I think? A dataset of COVID-19 Humor and its toxic variants. In Companion Proceedings of the ACM Web Conference 2023 (pp. 1004-1013).
 
 Humor is a cognitive construct which predominantly evokes the feeling of mirth. The growing distress and agony during COVID-19 pandemic reemphasised the need to study humor and its role in our daily lives. In this paper, we present a well curated dataset of COVID-19 humor with rich and reliable annotation. Our dataset comprises over 4K reddit posts, memes and comments, annotated with labels namely humor type, topic, maladaptive vs adaptive, and the target of the humor.
 
